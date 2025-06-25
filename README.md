@@ -83,5 +83,3 @@ By completing this project, you'll gain experience with:
 This project is open for educational purposes. The dataset is sourced from [Our World in Data](https://ourworldindata.org/covid-data).
 
 ---
-
-Made with 💻 and 📊 by \[Your Name Here]
